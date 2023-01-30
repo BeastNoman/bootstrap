@@ -1,0 +1,404 @@
+
+
+
+/* background image 1 */
+.img1{
+    background-image: url(../assests/hero_iphone14pro__e5xbgo5ffhg2_large_2x.jpg);
+    display: flex;
+    height: 700px;
+    max-width: 100%;
+    min-width: auto;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding-top: 60px;
+}
+.img1 h1{
+    font-size: 60px;
+}
+.img1 p{
+    font-size: 32px;
+}
+.img1 ul{
+    display: flex;
+    gap: 30px;
+}
+.img1 li{
+    list-style-type: none; 
+    
+}
+.img1 li a{
+    text-decoration: none;
+    color: #06c;
+    line-height: 1.5;
+    font-size: 22px;
+}
+
+/* background image 2 */
+.img2{
+    background-image: url(../assests/hero_iphone14__fjmsqstr1ceq_large_2x.jpg);
+    display: flex;
+    height: 700px;
+    max-width: 100%;
+    min-width: auto;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    color: rgb(0, 0, 0);
+    padding-top: 60px;
+}
+.img2 h1{
+    font-size: 60px;
+}
+.img2 p{
+    font-size: 32px;
+}
+.img2 ul{
+    display: flex;
+    gap: 30px;
+}
+.img2 li{
+    list-style-type: none; 
+    
+}
+.img2 li a{
+    text-decoration: none;
+    color: #06c;
+    line-height: 1.5;
+    font-size: 22px;
+}
+/* background image 3 */
+.img3{
+    background-image: url(../assests/hero_apple_watch_series_8__bjc1ok5mkjua_large_2x.jpg);
+    display: flex;
+    height: 700px;
+    max-width: 100%;
+    min-width: auto;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    padding-top: 60px;
+}
+.img3 h1{
+    font-size: 60px;
+}
+.img3 p{
+    font-size: 32px;
+}
+.img3 ul{
+    display: flex;
+    gap: 30px;
+}
+.img3 li{
+    list-style-type: none; 
+    
+}
+.img3 li a{
+    text-decoration: none;
+    color: #06c;
+    line-height: 1.5;
+    font-size: 22px;
+}
+.icon1{
+    width: 25px;
+    height: 25px;
+}
+/* background image 4-5 */
+
+.box4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding-top: 10px; ; 
+    color: rgb(31, 31, 31);          
+}    
+.box4 .img4{
+display: flex;
+flex-direction: column;
+align-items: center;
+background-image: url(../assests/promo-apple-fitness-plus-iphone__bzeal882mv7m_large_2x.jpg);
+background-position: center;
+background-size: cover;
+height: 600px;
+width: 49.5%;
+margin-left: auto;
+padding-top: 50px;
+}
+.box4 .img4 img{
+width: 200px;
+height: 35px;
+}
+
+.box4 .img4 p{
+font-size: 22px;
+}
+.img4 li{
+list-style-type: none;  
+}
+.img4 li a{
+text-decoration: none;
+color: #2992ff;
+line-height: 1.5;
+font-size:18px;
+}
+.box4 .img5{
+display: flex;
+flex-direction: column;
+align-items: center;
+position: absolute;
+background-image: url(../assests/promo_apple_watch_ultra__gnsqulvdc4a6_large_2x.jpg);
+background-position: center;
+background-size: cover;
+height: 600px;
+width: 49.5%;
+margin-left: auto;
+left: 0px;
+padding-top: 50px;
+}
+.box4 .img5 img{
+width: 150px;
+height: 50px;
+}
+
+.box4 .img5 p{
+font-size: 22px;
+line-height: 2;
+}
+.img5 li{
+list-style-type: none;  
+}
+.img5 li a{
+text-decoration: none;
+color: #2992ff;
+line-height: 1.5;
+font-size:18px;
+}
+.box4 ul{
+    display: flex;
+    gap: 22px;
+}
+/* background image 6-7 */
+
+.box5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding-top: 10px; ; 
+    color: rgb(31, 31, 31);   
+}
+.box5 .img6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../assests/promo_ipad__fioegapg12qi_large_2x.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 49.5%;
+    margin-left: auto;
+    padding-top: 30px;
+}
+.box5 .img6 h1{
+    font-size: 50px;
+
+}
+
+.box5 .img6 p{
+    font-size: 22px;
+}
+.img6 li{
+    list-style-type: none;  
+}
+.img6 li a{
+    text-decoration: none;
+    color: #2992ff;
+    line-height: 1.5;
+    font-size:18px;
+}
+.img6 ul{
+    display: flex;
+    gap: 20px;
+}
+.box5 .img7{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    background-image: url(../assests/promo__sw58lbodkmqq_large_2x.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 49.5%;
+    margin-left: auto;
+    left: 0px;
+    color: white;
+    padding-top: 30px;
+}
+.box5 .img7 h1{
+    font-size: 50px;
+}
+
+.box5 .img7 img{
+    width: 150px;
+    height: 50px;
+}
+ 
+.box5 .img7 p{
+    font-size: 22px;
+}
+.img7 li{
+    list-style-type: none;  
+}
+.img7 li a{
+    text-decoration: none;
+    color: #ffff;
+    line-height: 1.5;
+    font-size:18px;
+}
+
+  /* 8th/9th bg pictue */
+  .box6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding-top: 10px; ; 
+    color: rgb(31, 31, 31);          
+}
+.box6 .img8{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../assests/tile__cauwwcyyn9hy_large_2x.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 49.5%;
+    margin-left: auto;
+    padding-top: 30px;
+}
+.box6 .img8 img{
+    width: 120px;
+    height: 35px;
+}
+
+.box6 .img8 p{
+    font-size: 22px;
+    
+}
+.img8 li{
+    list-style-type: none;  
+}
+.img8 li a{
+    text-decoration: none;
+    color: #2992ff;
+    line-height: 1.5;
+    font-size:18px;
+}
+.img8 ul{
+    display: flex;
+    gap: 20px;
+}
+.box6 .img9{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    background-image: url(../assests/xoxo_promo__czow8gsh0gk2_large_2x.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 49.5%;
+    margin-left: auto;
+    left: 0px;
+    padding-top: 40px;
+}
+.box6 .img9 img{
+    width: 120px;
+    height: 30px;
+}
+ 
+.box6 .img9 p{
+    font-size: 25px;
+    color: #fff;
+    line-height: 2;
+}
+.img9 li{
+    list-style-type: none;  
+}
+.img9 li a{
+    text-decoration: none;
+    color: #2992ff;
+    line-height: 1.5;
+    font-size:18px;
+}
+
+
+
+   /* footer */
+
+.footer{
+    background-color: #f8f7f7;
+    color: #6e6e73;
+    width: auto;
+    height: auto;
+    padding: 20px 50px;
+}
+
+.footer .para1 li{
+list-style-type: none;
+}
+
+.footer .para1 p{
+    line-height: 1.5;
+    padding-bottom: 15px;
+    
+}
+
+.footer .table{
+    padding-top: 20px;
+    display: flex;
+    gap: 50px;
+}
+.table .title{
+    color: #1d1d1f;
+    font-weight: bold;
+}
+.footer td{
+    cursor: pointer;
+    padding-top: 5px;
+    font-weight: 400;
+    font-size: 18px;
+    padding-left: 80px;
+}
+.footer td:hover{
+    text-decoration: underline;
+}
+.footer .bottom p{
+    padding-top: 30px;
+    word-spacing: 2px;
+}
+.footer .bottom a{
+    text-decoration: none;
+    color: #2992ff;
+}
+.finaSlection{
+    margin-bottom: 30px;
+}
+.finaSlection a{
+text-decoration: none;
+color: #6e6e73;
+}
+.finaSlection a:hover{
+    text-decoration: underline;
+}
